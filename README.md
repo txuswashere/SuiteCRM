@@ -13,6 +13,11 @@ https://docs.suitecrm.com/admin/
 ### SuiteCRM Overview
 https://suitecrm.com/what-is-suitecrm/
 
+# Integration of SuiteCRM into Nextcloud 
+https://apps.nextcloud.com/apps/integration_suitecrm 
+https://github.com/julien-nc/integration_suitecrm 
+
+
 SuiteCRM is an open source Customer Relationship Management (CRM) software solution that provides a 360-degree view of your customers and business.
 
 Making it easy for your Sales, Marketing and Customer Service departments to discover key information that will help you grow, retain and delight your customers.
