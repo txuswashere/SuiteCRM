@@ -14,8 +14,8 @@ https://docs.suitecrm.com/admin/
 https://suitecrm.com/what-is-suitecrm/
 
 # Integration of SuiteCRM into Nextcloud 
-https://apps.nextcloud.com/apps/integration_suitecrm 
-https://github.com/julien-nc/integration_suitecrm 
+* https://apps.nextcloud.com/apps/integration_suitecrm 
+* https://github.com/julien-nc/integration_suitecrm 
 
 
 SuiteCRM is an open source Customer Relationship Management (CRM) software solution that provides a 360-degree view of your customers and business.
@@ -42,11 +42,9 @@ SuiteCRM has all the features you need to accelerate your business growth and pr
 Para asegurarnos del éxito del proyecto nuestro equipo llevará a cabo el análisis de los requerimientos internos de las diferentes áreas de negocio, proceso que se llevará a cabo con la participación de los usuarios clave de la empresa y nuestros ingenieros.
  
 ## Implementación
-
 La implementación de la solución CRM es el siguiente paso natural después de la consultoría. Aquí realizaremos el grueso del trabajo de la personalización del CRM a las necesidades de tus areas de negocio. Además se realizarán las integraciones necesarias tanto de plugins, herramientas de marketing y de telefonía, si lo necesitas.
 
 ## Formación
-
 Despues de la Implementación realizaremos una formación a medida de las necesidades de tu empresa para que los usuarios se familiaricen con la nueva herramienta y puedan sacar el máximo rendimiento a la misma..
 
 ## Soporte
